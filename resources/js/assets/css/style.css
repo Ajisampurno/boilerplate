@@ -1,0 +1,16 @@
+
+#datatable thead th {
+    text-align: center;
+}
+#datatable thead th {
+    padding: 0.20rem;
+    font-size: 0.90rem;
+} 
+#datatable tbody td {
+    padding: 0.20rem;
+    font-size: 0.75rem;
+}
+#datatable .btn {
+    padding: 0.10rem;
+    font-size: 0.75rem;
+}
